@@ -1,0 +1,9 @@
+# %%
+import cv2
+
+faceProto='opencv_face_detector.pbtxt'
+faceModel='opencv_face_detector_uint8.pb'
+ageProto='age_deploy.prototxt'
+ageModel='age_net.caffemodel'
+genderProto='gender_deploy.prototxt'
+genderModel='gender_net.caffemodel'
